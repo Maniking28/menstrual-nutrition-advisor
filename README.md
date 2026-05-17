@@ -1,5 +1,9 @@
 # Menstrual Nutrition Advisor
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20252925.svg)](https://doi.org/10.5281/zenodo.20252925)
+
+**DOI:** [10.5281/zenodo.20252925](https://doi.org/10.5281/zenodo.20252925)
+
 **Personalized Dietary Guidance Framework for Menstrual Symptom Alleviation Based on Generative Data and Interpretable Machine Learning**
 
 ## 📌 Overview
